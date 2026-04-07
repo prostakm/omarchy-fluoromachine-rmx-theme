@@ -1,6 +1,6 @@
 # Accent and UI colors
 accent = "#61E2FF"
-active_border_color = "#61E2FF"
+active_border_color = "#61E2FFaa"
 active_tab_background = "#61E2FF"
 
 # Cursor colors
